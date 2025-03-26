@@ -5,8 +5,8 @@ Proficient in SQL, Python, and data visualization tools such as Power BI and Tab
 
 # Certifications
 
-TATA: Data Visualization Virtual Internship (Forage)
-SQL: Intermediate Assessment (HackerRank)
+TATA: Data Visualization Virtual Internship (Forage), 
+SQL: Intermediate Assessment (HackerRank), 
 Python for Data Science, AI, and Development (IBM - Coursera)
 
 ## Projects
