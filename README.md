@@ -3,7 +3,7 @@
 
 Proficient in SQL, Python, and data visualization tools such as Power BI and Tableau, with experience in developing analytical solutions and enhancing network performance. Able to apply computational and analytical expertise to extract valuable insights and support data-driven decision-making.
 
-# Certifications
+## Certifications
 
 TATA: Data Visualization Virtual Internship (Forage), 
 SQL: Intermediate Assessment (HackerRank), 
